@@ -8,7 +8,7 @@ Library/
 Assets/Texture/Video/
 Assets/Resources/
 
-*.pidb.meta
+# *.pidb.meta
 *LightingData*
 
 [merge]
